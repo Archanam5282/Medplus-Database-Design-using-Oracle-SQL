@@ -108,3 +108,6 @@ The Steps for Normalisation is explained in the Report.pdf file
       SQL>  @DROP_USER   [ENTER]
 
 13.   Now, go to the data folder in your medplus folder and check to see that  the file medplus_data.dbf is gone from this folder!
+
+
+![Alt text](E-R.png?raw=true "Entity-Relationship Diagram")
