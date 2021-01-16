@@ -31,6 +31,9 @@
 
 The Steps for Normalisation is explained in the Report.pdf file
 
+### Entity-Relationship Diagram
+
+![Alt text](E-R.png?raw=true "Entity-Relationship Diagram")
 
 ### Steps to run the SQL queries:
 
@@ -110,4 +113,4 @@ The Steps for Normalisation is explained in the Report.pdf file
 13.   Now, go to the data folder in your medplus folder and check to see that  the file medplus_data.dbf is gone from this folder!
 
 
-![Alt text](E-R.png?raw=true "Entity-Relationship Diagram")
+
