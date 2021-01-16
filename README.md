@@ -1,6 +1,6 @@
 # Medplus-Database-Design-using-Oracle-SQL
 
-### SUMMARY:
+### Summary:
 
 •	MedPlus is an Online Pharmacy Application database.
 
